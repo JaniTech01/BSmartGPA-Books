@@ -1,3 +1,9 @@
+A new **Update** available is awalailabe, Please downloade new update else this app won't work properly
+
+
+
+
+
 # Department: BS Computer Science
 1-1: https://github.com/JaniTech01/BSmartGPA-Books/blob/main/Semester1/Introduction%20To%20Computer%20Theory%20By%20Daniel%20I.A%20%20Cohen%202nd%20Edition.pdf
 1-2: https://example.com/books/mathematics1.pdf
